@@ -1,0 +1,36 @@
+/stored.cfg
+*.log
+*.lck
+
+# Maven wrapper
+/*/.mvn
+/*/mvnw
+/*/mvnw.cmd
+
+# Maven settings
+target/
+
+# Spring settings
+.factorypath
+.apt_generated
+.springBeans
+
+# IDEA settings
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse settings
+.settings/
+/*/bin/
+/*/.classpath
+/*/.project
+
+# NetBeans
+/*/nbproject/private/
+/*/build/
+/*/nbbuild/
+/*/dist/
+/*/nbdist/
+/*/.nb-gradle/
